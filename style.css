@@ -1,0 +1,40 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+
+    
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+   
+}
+
+.shape{
+      height:200px;
+    width: 200px;
+    border: 1px solid black;
+     justify-content: center;
+    text-align :center;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#twoboxes{
+    display: flex;
+}
+#two{
+    display: flex;
+}
